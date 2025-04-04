@@ -1,2 +1,2 @@
 # PortfólioVfelipealexandrino
- Projeto Faculdade, Professor Luís Alberto
+ Projeto Faculdade de criar um portfólio, Professor Luís Alberto, Desenvolvimento WEB.
