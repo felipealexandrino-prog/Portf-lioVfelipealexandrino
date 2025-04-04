@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    background-color: #0A1F44;
+    color: #FFFFFF;
+    font-family: 'Jost', sans-serif;
+}
+a {
+    text-decoration: none; /* Remove o sublinhado */
+    color: inherit; /* Faz o link herdar a cor do elemento pai */
+}
+
+header{
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #0A1F44;
+    font-size: 1.7rem;
+}
+.contato{
+    cursor: pointer;
+    transition: 1.2s;
+
+
+}
+
+.contato:hover{
+    scale: 128%;
+    color: #00D1C0;
+}
+
+header img{
+    margin-left: -3rem;
+}
+
+section{
+    margin-left: 33rem ;
+    margin-top: -20rem;
+}
+
+span{
+    color: blue;
+    font-size: x-large;
+}
+
+
+
+main{
+    cursor: pointer;
+    transition: 1.2s;
+    font-size: large;
+}
+
+main:hover{
+    scale: 108%;
+}
+
+.info{
+    display: flex  ;
+    margin-left: 12rem;
+    margin-right: 5rem;
+    margin-top: 14rem;
+    text-align: center;
+    cursor: pointer;
+    transition: 1.2s;
+    font-size: 1.3rem;
+}
+
+.info:hover{
+    scale: 108%;
+    color: #00D1C0;
+}
+
+p {
+    max-width: 600px; /* Ajuste conforme necessário */
+}
+
+h2{
+    font-size: 2.5rem;
+    margin-top: 10rem;
+    margin-bottom: 1rem;
+    margin-left: 45rem;
+    
+}
+
+
+.titpro{
+    margin-top: 28rem;
+    margin-left: 14rem;
+}
+
+.card{
+    margin-top: 12rem;
+
+}
+
+.card1{
+    margin-left: 23rem;
+    margin-top: -24rem;
+    margin-bottom: 2rem;
+}
+
+.projeto{
+    cursor: pointer;
+    transition: 1.2s;
+    margin-bottom: 8rem;
+    
+}
+
+.projeto:hover{
+    scale: 118%;
+    color: #00D1C0;
+}

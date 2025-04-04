@@ -1,0 +1,69 @@
+@media screen and (max-width: 768px) {
+    p {
+        overflow-wrap: break-word;
+    }
+    
+    header img {
+        margin-left: 0;
+        width: 50%;
+    }
+    main img{
+        width: 50%;
+        height: auto;
+    }
+    section{
+        position: relative;
+        right: 23rem;
+        top: 23rem;
+        margin-right: 5rem;
+        font-size: 1.1rem;
+        display: flex;
+        
+        
+    }
+
+    h2{
+        position: relative;
+        top: 25rem;
+        right: 40rem;
+    }
+    
+
+    .info{
+        position: relative;
+        font-size: 1.1rem;
+        left: -4rem;
+
+    }
+
+  
+    .card{
+        position: relative;
+        top: 34rem;
+        right: 25rem;
+    }
+
+    .card1{
+        position: relative;
+        top: 73rem;
+        right: 42rem;
+    }
+
+    .card img{
+        width: 22vh;
+        height: 25vh ;
+        
+    }
+
+    .card1 img{
+       width: 22vh;
+       height: 25vh ;
+    }
+
+    .titpro{
+        position: relative;
+        top: 10rem;
+        right: 5rem;
+        font-size: 2.5rem;
+    }
+}
